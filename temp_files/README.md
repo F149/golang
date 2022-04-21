@@ -1,1 +1,1 @@
-####  This folder store temporary files, templates and stubs.
+####  Temporary files, templates and stubs.
